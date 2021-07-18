@@ -3,7 +3,7 @@ entries:
   helm_mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-07-18T17:40:10.7707714+05:30"
+    created: "2021-07-18T18:12:11.9668221+05:30"
     description: A Helm chart for Kubernetes for git
     digest: 2a772aed2cc8197a6349cedd81141c89fbeb038827baedd434e20b1c289c9ce2
     name: helm_mychart
@@ -11,4 +11,15 @@ entries:
     urls:
     - helm_mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-18T17:40:10.7673344+05:30"
+  updated_helm_chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-18T18:12:11.9691531+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 9c9b1848c7237b4ad1b3f07afec16a10a7029f7078654c8b0875abced3762d3e
+    name: updated_helm_chart
+    type: application
+    urls:
+    - updated_helm_chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-18T18:12:11.9637883+05:30"
